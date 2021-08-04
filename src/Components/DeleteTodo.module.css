@@ -1,0 +1,10 @@
+.deleteTodo{
+    padding-top: 10px;
+}
+.deleteTodo h4{
+    width: 90%;
+    margin: 0 auto;
+    background-color: rgba(220, 20, 60, 0.856);
+    padding: 10px;
+    color: #fff;
+}

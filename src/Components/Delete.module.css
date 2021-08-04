@@ -1,0 +1,11 @@
+.delete article{
+    font-size: 15px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    background-color:rgb(220, 20, 60);
+    color: #fff;
+    padding: 13px;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 50px;
+}

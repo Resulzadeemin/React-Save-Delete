@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    width: 55%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 50px;
+}
